@@ -4,7 +4,7 @@
 
 I'm currently pursuing an MBA in IT Systems and learning the MERN stack. Recently, I completed an internship at InternPe and am currently working with Codesoft as a Python intern.
 
-## Connect with Me
+## Connect with Me ![Profile views](https://komarev.com/ghpvc/?username=ArjunVishwakarma&color=blue)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunvishwakarma/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/radhelifts/)
@@ -14,7 +14,7 @@ I'm currently pursuing an MBA in IT Systems and learning the MERN stack. Recentl
 
 ## Skills
 
-### Programming Languages
+### Programming Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 
@@ -45,14 +45,14 @@ I'm currently pursuing an MBA in IT Systems and learning the MERN stack. Recentl
 
 ---
 
-<div align="center">
-    <img src="https://media3.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif?cid=6c09b9527e5yzl1vecmdsu8kr12f2lh2fqg3meg1p0w96ffh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="300">
+<div align="right">
+    <img src="https://media3.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif?cid=6c09b9527e5yzl1vecmdsu8kr12f2lh2fqg3meg1p0w96ffh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="500">
 </div>
 
 ---
 
 ## GitHub Stats
 
-![Profile views](https://komarev.com/ghpvc/?username=ArjunVishwakarma&color=blue)
+
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunVishwakarma&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunVishwakarma&layout=compact)
