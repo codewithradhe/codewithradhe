@@ -1,14 +1,15 @@
 <div align="center",>
 <strong> <h1>Hi there, I'm Arjun Vishwakarma 👋</h1></strong>
 </div>
+
 <div align="center">
 <strong><h2>About Me</h2></strong>
 </div>
 
-<h4>I'm currently pursuing an MBA in IT Systems and learning the MERN stack. Recently, I completed an internship at InternPe and am currently working with Codesoft as a Python intern.</h4>
+<div align="left"><h4>I'm currently pursuing an MBA in IT Systems and learning the MERN stack. Recently, I completed an internship at InternPe and am currently working with Codesoft as a Python intern.</h4></div>
 
 
-<div align="right">
+<div align="center">
     <img src="https://media3.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif?cid=6c09b9527e5yzl1vecmdsu8kr12f2lh2fqg3meg1p0w96ffh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="500">
 </div>
 
