@@ -32,19 +32,11 @@
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
+
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-
-### Frameworks
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django&logoColor=white)
 
 ### Tools
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe-photoshop&logoColor=white)
